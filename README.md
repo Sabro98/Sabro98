@@ -13,7 +13,7 @@
 <img alt="Unity" src ="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="20"/>
 <img alt="C-sharp" src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="20"/>
 
-**Interest** 📚  
+**Will** 📚  
 <img alt="GO" src ="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="20"/>
 <img alt="React" src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="20"/>
 <img alt="Rust" src ="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" height="20"/>
