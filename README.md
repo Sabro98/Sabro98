@@ -1,4 +1,4 @@
-<!-- 🍀  
+🍀  
 <img alt="Python" src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="20"/>
 <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="20"/>
 <img alt="Numpy" src ="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="20"/>
@@ -16,6 +16,6 @@
 📚  
 <img alt="GO" src ="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="20"/>
 <img alt="React" src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="20"/>
-<img alt="GraphQL" src ="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="20"/> -->
+<img alt="GraphQL" src ="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="20"/>
 
 ![Sabro98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabro98&show_icons=true&theme=onedark)
